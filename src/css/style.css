@@ -218,7 +218,7 @@ button {
 }
 
 .cart-card {
-  position: relative; 
+  position: relative;
   margin-bottom: 1rem;
   padding: 1rem;
 }
@@ -393,7 +393,6 @@ button {
   cursor: pointer;
 }
 
-
 /* discount indicators */
 .discount-badge {
   display: inline-block;
@@ -425,7 +424,6 @@ button {
   font-size: 0.9rem;
   font-weight: 500;
 }
-
 
 footer {
   font-size: var(--small-font);
